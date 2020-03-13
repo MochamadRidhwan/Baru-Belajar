@@ -7,6 +7,6 @@ RENCANA KONTEN
     ^ React
 - Struktur Data Dasar
 - PHP Framework
-  * Laravel
+  ^ Laravel
 - Interview
 - Python
