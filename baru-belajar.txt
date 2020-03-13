@@ -2,5 +2,5 @@ WPU RESOLUSI
 - Konsisten belajar GITHUB 2X seminggu
 - Membuat platform untuk pengelolaan data
 - Membuat forum diskusi
-- Memuat online shop
 - Kolaborasi dengan lebih banyak expert
+- Membuat new online shop
